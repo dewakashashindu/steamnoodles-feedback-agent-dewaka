@@ -78,7 +78,7 @@ steamnoodles-feedback-agent-dewaka/
 
 - **Name**: Dewaka Shashindu Abeywikrama
 - **University**: General Sir John Kotelawala Defence University (KDU)
-- **Year**: 2nd Year
+- **Year**: 2025
 
 ## Summary of Approach
 

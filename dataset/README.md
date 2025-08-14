@@ -77,8 +77,8 @@ steamnoodles-feedback-agent-dewaka/
 ## Author
 
 - **Name**: Dewaka Shashindu Abeywikrama
-- **University**: [Your University Name]
-- **Year**: [Your Year]
+- **University**: General Sir John Kotelawala Defence University (KDU)
+- **Year**: 2nd Year
 
 ## Summary of Approach
 
